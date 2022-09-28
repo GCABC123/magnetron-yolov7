@@ -261,7 +261,7 @@ Tested with: Python 3.7.13, Pytorch 1.12.0+cu113
 
 [`code`](https://github.com/WongKinYiu/yolov7/tree/pose) [`yolov7-w6-pose.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt)
 
-See [keypoint.ipynb](https://github.com/WongKinYiu/yolov7/blob/main/tools/keypoint.ipynb).
+
 
 <div align="center">
     <a href="./">
@@ -274,7 +274,6 @@ See [keypoint.ipynb](https://github.com/WongKinYiu/yolov7/blob/main/tools/keypoi
 
 [`code`](https://github.com/WongKinYiu/yolov7/tree/mask) [`yolov7-mask.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-mask.pt)
 
-See [instance.ipynb](https://github.com/WongKinYiu/yolov7/blob/main/tools/instance.ipynb).
 
 <div align="center">
     <a href="./">
