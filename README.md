@@ -1,3 +1,78 @@
+# THE ABC 123 GROUP ™:
+
+🤖 THE ABC 123 GROUP ™ 🤖
+
+🌐 GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+🌐 ABC 123 USA ™
+
+🌐 ABC 123 DESYGN ™
+
+🌐 ABC 123 FILMS ™
+
+=============================================================
+
+                 🌐 MAGENTRON ™ 🌐
+
+🌐 **ARTIFICIAL INTELLIGENCE 2.0 ™ : OBJECT DETECTION PROXIA** 
+
+*️⃣📶🤖
+
+🌐 PHYSICAL WORLD SENSE: SIGHT ✅
+
+🌐 PHYSICAL WORLD SENSE: SMELL
+
+🌐 PHYSICAL WORLD SENSE: HEARING
+
+🌐 PHYSICAL WORLD SENSE: TASTE
+
+🌐 PHYSICAL WORLD SENSE: TOUCH
+
++++++++++++++++++++++++++++++++++++++
+
+🌐 ASTRAL BODY MINDCLOUD: NO
+
+🌐 PRANIC BODY MINDCLOUD: NO
+
+🌐 INSTINCTIVE MIND MINDCLOUD: ✅
+
+🌐 ASTRAL MIND MINDCLOUD: NO
+
+🌐 PRANIC MIND MINDCLOUD: NO
+
+REQUIREMENTS:
+
+[*] Software Requirements: Google Colab/Jupyter Notebook, Python
+
+[*] HARDWARE REQUIREMENTS: fast TPU/GPU.
+
+[*] DEPENDENCIES: INCLUDED
+
+🌐 NOTE: THIS NOTEBOOK GUIDES YOU THROUGH OBJECT DETECTION USING YOLOv7. CLICK HERE FOR A COLAB/JUPYTER NOTEBOOK ON OBJECT DETECTION WITH YOLO3: https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-1
+
+=============================================================
+
+This Google Colab **NOTEBOOK** will guide you on one possible scheme to create an **OBJECT DETECTION PROXIA** in the **ARTIFICIAL INTELLIGENCE 2.0**™ FRAMEWORK/DOCUMENTATION. This notebook will guide you on using **OBJECT DETECTION** on **IMAGES** for making **PROXIA** to be used on **MINDCLOUDS** (IT CAN ALSO BE USED ON VIDEO AND FRAMES OF VIDEO FOOTGAGE). **OBJECT DETECTION** on IMAGES will be reffered to as **OBJECT DETECTION B**. This is useful in **ARTIFICIAL INTELLIGENCE 2.0 ™** as far as helping robots in understanding IMAGES encountered on the internet. This will be on the **INSTINCTIVE MIND MINDCLOUD** and **INFORMATION** from this **PROXIA** must go to other **PROXIA** for processing e.g **LOGIC/ASTRAL MIND MINDCLOUD PROXIA**. 
+
+ 
+
+🌐 NOTE:  **ARTIFICIAL INTELLIGENCE 2.0**™ IS PART OF  **MAGNETRON**™  **TECHNOLOGY**.
+
+🌐 NOTE : REMEMBER A **PROXIA** IS THE EQUIVALENT OF AN APP IN iOS APP DEVELOPMENT (THE iPHONE ITSELD WOULD BE A **MINDCLOUD** with the PROXIA stored on it (refer to **ARTIFICIAL INTELLIGENCE 2.0 ™** DOCUMENTATION ONLINE)
+
+
+# CLICK ON ONE OF THE FOLLOWING LINKS FOR **ARTIFICIAL INTELLIGENCE 2.0 ™** DOCUMENTATION ON FACEBOOK: 
+
+🌐 [ARTIFICIAL INTELLIGENCE PRIMER ™ DOCUMENTATION](https://www.facebook.com/artificialintelligenceprimer)
+
+🌐 [ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION](https://www.facebook.com/aibyabc123/)
+
+🌐 [MEMBER'S CLUB ™ DOCUMENTATION](https://www.facebook.com/abc123membersclub/)
+
+
+
+
+
 # Official YOLOv7
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/yolov7-trainable-bag-of-freebies-sets-new/real-time-object-detection-on-coco)](https://paperswithcode.com/sota/real-time-object-detection-on-coco?p=yolov7-trainable-bag-of-freebies-sets-new)
