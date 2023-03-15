@@ -281,6 +281,26 @@ Tested with: Python 3.7.13, Pytorch 1.12.0+cu113
     </a>
 </div>
 
+## Instance segmentation
+
+[`code`](https://github.com/WongKinYiu/yolov7/tree/u7/seg) [`yolov7-seg.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-seg.pt)
+
+YOLOv7 for instance segmentation (YOLOR + YOLOv5 + YOLACT)
+
+| Model | Test Size | AP<sup>box</sup> | AP<sub>50</sub><sup>box</sup> | AP<sub>75</sub><sup>box</sup> | AP<sup>mask</sup> | AP<sub>50</sub><sup>mask</sup> | AP<sub>75</sub><sup>mask</sup> |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **YOLOv7-seg** | 640 | **51.4%** | **69.4%** | **55.8%** | **41.5%** | **65.5%** | **43.7%** |
+
+## Anchor free detection head
+
+[`code`](https://github.com/WongKinYiu/yolov7/tree/u6) [`yolov7-u6.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-u6.pt)
+
+YOLOv7 with decoupled TAL head (YOLOR + YOLOv5 + YOLOv6)
+
+| Model | Test Size | AP<sup>val</sup> | AP<sub>50</sub><sup>val</sup> | AP<sub>75</sub><sup>val</sup> |
+| :-- | :-: | :-: | :-: | :-: |
+| **YOLOv7-u6** | 640 | **52.6%** | **69.7%** | **57.3%** |
+
 
 ## Citation
 
@@ -289,6 +309,15 @@ Tested with: Python 3.7.13, Pytorch 1.12.0+cu113
   title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
   author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
   journal={arXiv preprint arXiv:2207.02696},
+  year={2022}
+}
+```
+
+```
+@article{wang2022designing,
+  title={Designing Network Design Strategies Through Gradient Path Analysis},
+  author={Wang, Chien-Yao and Liao, Hong-Yuan Mark and Yeh, I-Hau},
+  journal={arXiv preprint arXiv:2211.04800},
   year={2022}
 }
 ```
